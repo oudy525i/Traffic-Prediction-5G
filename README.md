@@ -91,9 +91,9 @@ An example of the results of the estimation: <br />
 <img src = "images/predictions.png" width  = 500></img>
 
 Finally the results of our prediction are: <br />
-Correctness of predicted BS at C+1 (after 1s) = 85.9249% <br />
-Correctness of predicted BS at C+2 (after 2s) = 79.6343% <br />
-Correctness of predicted BS at C+2 (after 3s) = 73.8752% <br />
+- correctness of predicted BS at C+1 (after 1s) = 85.9249%; <br />
+- correctness of predicted BS at C+2 (after 2s) = 79.6343%; <br />
+- correctness of predicted BS at C+2 (after 3s) = 73.8752%. <br />
 
 A dynamic representation of the results is provided in the jupyter notebook.
 
@@ -102,4 +102,4 @@ An example of the predicted load for the all the base stations at the second t=5
 
 
 ### Notes:
-The full project, without the data, is described in the "final_project_group_19.ipynb" file. However, since no data are provided, it's currently not working cloning this repository. 
+The full project, without the data, is described in the "final_project_group_19.ipynb" file. However, since no data are provided, it's currently not by working cloning this repository. 
